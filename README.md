@@ -2,7 +2,7 @@
 
 ## 📌 Descripción del proyecto
 
-Este proyecto corresponde al Portafolio N°3 del curso **“Desarrollo de Aplicaciones Full Stack Python”**.
+Este proyecto corresponde al Portafolio N°3 del modulo **FUNDAMENTOS DE PROGRAMACIÓN EN PYTHON**, del curso **“Desarrollo de Aplicaciones Full Stack Python”**.
 
 Consiste en el desarrollo de un **Sistema de Gestión de Productos en Python**, ejecutado en consola, cuyo objetivo es aplicar de forma práctica los contenidos vistos en el módulo, tales como estructuras de control, funciones, estructuras de datos y modularización del código.
 
